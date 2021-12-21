@@ -51,3 +51,9 @@ C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplet
 C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\CadastroRealizado.cshtml.g.cs
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\EditarUsuario.cshtml.g.cs
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\listaDeUsuarios.cshtml.g.cs
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\xampp\htdocs\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuario.cshtml.g.cs
